@@ -1,0 +1,227 @@
+.one {
+    position: absolute;
+    right: 82%;
+    top: 4%;
+
+}
+.two {
+    width: 45%;
+    position: absolute;
+    right: 25%;
+    top: 6%;
+}
+.three {
+    position: absolute;
+    right: 72%;
+    top: 6%;
+
+}
+.four {
+    position: absolute;
+    right: 23.5%;
+    top: 6%;
+
+}
+.five {
+    position: absolute;
+    right: 86%;
+    top: 6%;
+
+}
+.six {
+    position: absolute;
+    right: 80%;
+    top: 6%;
+}
+.seven {
+    position: absolute;
+    right: 12%;
+    top: 4%;
+}
+.mycart {
+    position: absolute;
+    right: 5%;
+    top: 4.3%;
+}
+.down {
+    position: absolute;
+    right: 10%;
+    top: 6%;    
+    }
+.cart {
+    width:1.5%;
+    position: absolute;
+    right: 3%;
+    top: 6%; 
+
+}
+.free {
+    position: absolute;
+    top: 12%;
+    right: 33%;
+    width: 30%;
+}
+.oi {
+    position: absolute;
+    top: 35%;
+    right: 41%;
+}
+.gr {
+    position: absolute;
+    right: 56%;
+    top: 45%;
+}
+.gr1 {
+    position: absolute;
+    right: 50%;
+    top: 45%;
+}
+.vg {
+    position: absolute;
+    right: 57%;
+    top: 49%;
+}
+.Pharmacy {
+    position: absolute;
+    right: 29%;    
+    top: 45%;
+    width: 5%;
+}
+.phar {
+    position: absolute;
+    right: 35%;    
+    top: 45%;
+}
+.vg1 {
+    position: absolute;
+    right: 37%;    
+    top: 49%;
+}
+.mezan {
+    position: absolute;
+    right: 70%;    
+    top: 59%;
+    
+}
+.mezan-t {
+    position: absolute;
+    right: 62%;    
+    top: 69%;
+}
+.cont {
+    position: absolute;
+    right: 68%;    
+    top: 80%;
+   border-color:   aqua;
+   width: 5%;
+}
+.down1 {
+    position: absolute;
+    right: 66%;    
+    top: 80.5%;
+    
+}
+.tomato {
+    position: absolute;
+    right: 45%;    
+    top: 61%;
+}
+.tomato-t {
+    position: absolute;
+    right: 45%;    
+    top: 69%;
+}
+.cont1 {
+    position: absolute;
+    right: 45%;
+    top: 80%;
+   border-color:   aqua;
+   width: 5%;
+}
+.down2 {
+    position: absolute;
+    right: 43%;
+    top: 80.5%;
+   border-color:   rgb(21, 22, 22);
+   
+}
+.everyday {
+    position: absolute;
+    right: 30%;
+    top: 60.5%;
+}
+.everyday-t {
+    position: absolute;
+    right: 18%;
+    top: 70%;
+}
+.cont2 {
+    position: absolute;
+    right: 29%;
+    top: 80.5%;
+   border-color:   aqua;
+   width: 5%;
+}        
+.down3 {
+    position: absolute;
+    right: 27%;
+    top: 80.9%;
+   border-color:   rgb(21, 22, 22);
+}
+.add-to-cart-buy-now-btn {
+    padding: 0;
+    width: 225px;
+    text-align: center;
+    margin-right: 10px;
+    position: absolute;
+    top: 86%;
+    right: 66.5%;
+    width: 6%;
+    
+}
+.pdp-button_theme_orange {
+    border: 1px solid #fc0000;
+    background: #ff1100;
+    color: #fff;
+}
+.pdp-button {
+    border-radius: 2px;
+}
+.add-to-cart-buy-now-btn1 {
+    padding: 0;
+    width: 225px;
+    text-align: center;
+    margin-right: 10px;
+    position: absolute;
+    top: 86%;
+    right: 43.5%;
+    width: 6%;
+    
+}
+.pdp-button_theme_orange1 {
+    border: 1px solid #fc0000;
+    background: #ff1100;
+    color: #fff;
+}
+.pdp-button1 {
+    border-radius: 2px;
+}
+.add-to-cart-buy-now-btn2 {
+    padding: 0;
+    width: 225px;
+    text-align: center;
+    margin-right: 10px;
+    position: absolute;
+    top: 86%;
+    right: 27.5%;
+    width: 6%;
+    
+}
+.pdp-button_theme_orange2 {
+    border: 1px solid #fc0000;
+    background: #ff1100;
+    color: #fff;
+}
+.pdp-button2 {
+    border-radius: 2px;
+}
